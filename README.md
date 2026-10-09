@@ -1,127 +1,167 @@
-<h1 align="center">Razybir</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,ts,html,css,git,github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Developer · Builder · Learner</b>
-</p>
+# RAZYBIR
 
-<p align="center">
-  <a href="https://github.com/razybir">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/razybir?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+### `Aspiring Developer | JavaScript Enthusiast | Discord Bot Developer`
 
----
+**Learning something new every day. Building something better every commit.**
 
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="20"> About Me
+<a href="https://github.com/razybir">
+  <img src="https://img.shields.io/badge/GitHub-razybir-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
+</a>
+<a href="https://discord.js.org/">
+  <img src="https://img.shields.io/badge/Discord.js-Exploring-5865F2?style=for-the-badge&logo=discord" alt="Discord.js"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/terminal.svg" width="16"> Learning **JavaScript**
-
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/message-square.svg" width="16"> Building **Discord bots**
-
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="16"> Working with **Node.js & Discord.js**
-
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" width="16"> Exploring **web development**
-
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/layers.svg" width="16"> Building projects for **Nexbytes**
-
-<img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/git-branch.svg" width="16"> Learning by building real projects
+</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/tool.svg" width="20"> Tech Stack
+## `whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,ts,html,css,git,github,vscode" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code-2.svg" width="20"> What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### <img src="https://skillicons.dev/icons?i=discordjs" width="18"> Discord Bots
-
-Custom Discord bots, automation, panels, commands, and tools.
-
-</td>
-<td width="50%">
-
-### <img src="https://skillicons.dev/icons?i=nodejs" width="18"> Node.js
-
-Learning backend development and building practical applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### <img src="https://skillicons.dev/icons?i=html,css" width="36"> Web Development
-
-Learning modern websites and application development.
-
-</td>
-<td width="50%">
-
-### <img src="https://skillicons.dev/icons?i=github" width="18"> Open Projects
-
-Experimenting with ideas and turning them into working projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/book-open.svg" width="20"> Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,git" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg" width="20"> Ask Me Something I Don't Know
-
-I'm still learning.
-
-If you know something I don't, teach me.
-If I don't know the answer, I'll learn it.
-
----
-
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/git-commit.svg" width="20"> Development
-
-```text
-Learn → Build → Test → Break → Debug → Improve
+```js
+const razybir = {
+  role: "Aspiring Developer",
+  currentlyLearning: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Discord.js"
+  ],
+  interests: [
+    "Web Development",
+    "Discord Bots",
+    "Backend Development",
+    "APIs",
+    "Automation"
+  ],
+  mindset: "Learn something new every day."
+};
 ```
 
+I'm a developer in progress, learning by building real projects, exploring new technologies, and solving problems one step at a time.
+
+- Learning web development from the fundamentals.
+- Building websites with HTML, CSS, and JavaScript.
+- Exploring React.js and Next.js for modern web applications.
+- Developing Discord bots with Discord.js.
+- Learning Node.js, APIs, and backend development.
+- Improving my coding skills through practice and experimentation.
+
+## Languages & Tools
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,discordjs,git,github,vscode&theme=dark" alt="Technologies and tools" />
+</a>
+
+</div>
+
+## Currently Learning
+
+| Technology | What I'm exploring |
+|:--|:--|
+| HTML5 | Semantic structure and accessible pages |
+| CSS3 | Responsive layouts, animations and styling |
+| JavaScript | Logic, DOM manipulation, promises and async code |
+| React.js | Components, props, hooks and state |
+| Next.js | Routing, rendering and full-stack web applications |
+| Node.js | Server-side JavaScript, packages and APIs |
+| Discord.js | Commands, events, interactions and bot systems |
+| Git & GitHub | Version control, commits and project collaboration |
+
+## What I'm Building
+
+<details>
+<summary><strong>Web Development</strong></summary>
+
+Creating websites and interactive interfaces while learning HTML, CSS, JavaScript, React, and Next.js.
+
+</details>
+
+<details>
+<summary><strong>Discord Bot Development</strong></summary>
+
+Experimenting with Discord.js, commands, event handlers, automation, APIs, and custom bot features.
+
+</details>
+
+<details>
+<summary><strong>Backend & APIs</strong></summary>
+
+Learning how applications communicate with servers, handle data, and connect to external services.
+
+</details>
+
+<details>
+<summary><strong>Daily Coding Experiments</strong></summary>
+
+Testing new ideas, debugging problems, practicing JavaScript, and turning concepts into small projects.
+
+</details>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg" width="20"> GitHub
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razybir&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/razybir?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/razybir">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=razybir&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="Razybir's GitHub statistics" />
+</a>
 
----
+<a href="https://github.com/razybir">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razybir&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=AAAAAA" alt="Most used languages" />
+</a>
 
-<p align="center">
-  <b>Learn. Build. Improve.</b>
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=razybir&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razybir&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+> Statistics and graphs are provided by external services. They may occasionally be unavailable, and language statistics represent detected repository contents rather than overall coding ability.
+
+## My Developer Mindset
+
+```js
+const dailyGoals = [
+  "Learn something new",
+  "Write cleaner code",
+  "Build useful projects",
+  "Understand my mistakes",
+  "Improve a little every day"
+];
+
+dailyGoals.forEach(goal => {
+  console.log(`> ${goal}`);
+});
+```
+
+> "Don't compare your beginning to someone else's middle."
+
+I believe progress comes from consistency, curiosity, and the willingness to debug what doesn't work.
+
+<div align="center">
+
+### `LEARN → BUILD → DEBUG → IMPROVE`
+
+**One day at a time. One project at a time.**
+
+<a href="https://github.com/razybir?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
